@@ -1,7 +1,7 @@
 # bookmark-checker
 Certainly! Below is an example of a README.md file for the script that opens a Google Chrome bookmarks file, reads it, visits each bookmark, converts the content to text using BeautifulSoup, and saves the text content in a JSON file.
 
-```markdown
+
 # Google Chrome Bookmarks Content Extractor
 
 This Python script extracts the text content from the web pages of your Google Chrome bookmarks and saves it in a JSON file. It uses the BeautifulSoup library for web scraping and requests library for making HTTP requests to the bookmarked URLs.
