@@ -58,6 +58,6 @@ Contributions to this script are welcome! Feel free to open an issue or submit a
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
 This README.md file provides an overview of the script, its requirements, installation instructions, usage guidelines, and other relevant details for potential users or contributors. You can customize the README file further to suit the specifics of your project and include additional information if needed.
